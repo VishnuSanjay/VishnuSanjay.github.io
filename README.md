@@ -1,10 +1,8 @@
 # webpages
-*personal web pages*
+This repo has been forked from https://github.com/mgubi/mgubi.github.io. I plan to use it to host content for my personal webpages.
 
-This repository contains the sources for my personal web pages, a general container of material I want to share with a wider public. 
 
 ## How does it work?
-
 All the HTML code is automatically generated from a collection of interlinked  [TeXmacs](http://www.texmacs.org) documents which are the primary source of content. Since TeXmacs itself takes care of the conversion there is no need for an external static site generator like `Jekyll` or `Hugo`. 
 
 The idea is that the site can be browsed both via a standard web browses on the Internet and via TeXmacs locally in the cloned repository. This setup allows an higher degree of interaction with the local copy. 
