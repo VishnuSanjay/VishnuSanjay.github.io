@@ -1,4 +1,4 @@
-<TeXmacs|2.1.1>
+<TeXmacs|2.1.4>
 
 <style|source>
 
@@ -46,11 +46,11 @@
 
   \;
 
-  <assign|html-title|Massimiliano<nbsp>Gubinelli>
+  <assign|html-title|Vishnu<nbsp>Sanjay>
 
   <assign|html-head-favicon|/resources/favicon-32x32.png>
 
-  <assign|html-css|/resources/notes-base.css>
+  <assign|html-css|../resources/notes-base.css>
 
   <assign|html-extra-javascript-src|<tuple|/resources/highlight.pack.js|/resources/notes-base.js>>
 
