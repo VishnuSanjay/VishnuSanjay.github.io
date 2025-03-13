@@ -86,7 +86,9 @@
         `(document 
             (TeXmacs ,(texmacs-version)) 
             (style (tuple "notes")) 
-            (body (document  
+            (head (link (@ (rel "stylesheet") (type "text/css")
+		(href "../resources/notes_base.css"))))  ;;
+	    (body (document  
                 (notes-header) 
                 (chapter* "List of all the articles")
                 (notes-abstract "A list of all the articles in the website, ordered by the most recent modification time.")

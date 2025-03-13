@@ -9,11 +9,10 @@
 
   <with|font-shape|italic|personal pages><vspace|3em>
 
-  I am currently a PhD student in mathematics
-  at<nbsp><hlink|GSSI|https://www.gssi.it/>. The problem I currently work on
-  a problem in kinetic theory, which is to rigorously pass from the
-  Schrödinger equation to a linear Boltzmann type equation in the weak
-  coupling limit.\ 
+  I am currently a PhD student in mathematics at
+  <nbsp><hlink|GSSI|https://www.gssi.it/>. The problem I currently work on a
+  problem in kinetic theory, which is to rigorously pass from the Schrödinger
+  equation to a linear Boltzmann type equation in the weak coupling limit.\ 
 
   \;
 

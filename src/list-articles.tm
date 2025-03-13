@@ -2,6 +2,8 @@
 
 <style|notes>
 
+<head|<link|<@|<rel|stylesheet>|<type|text/css>|<href|../resources/notes_base.css>>>>
+
 <\body>
   <notes-header>
 
