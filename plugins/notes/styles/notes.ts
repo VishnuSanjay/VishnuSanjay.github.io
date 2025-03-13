@@ -50,7 +50,7 @@
 
   <assign|html-head-favicon|../resources/favicon-32x32.png>
 
-  <assign|html-css|../../resources/notes-base.css>
+  <assign|html-css|../resources/notes-base.css>
 
   <assign|html-extra-javascript-src|<tuple|../resources/highlight.pack.js|../resources/notes-base.js>>
 

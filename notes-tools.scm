@@ -86,8 +86,6 @@
         `(document 
             (TeXmacs ,(texmacs-version)) 
             (style (tuple "notes")) 
-            (head (link (@ (rel "stylesheet") (type "text/css")
-		(href "../resources/notes-base.css"))))  ;;
 	    (body (document  
                 (notes-header) 
                 (chapter* "List of all the articles")
