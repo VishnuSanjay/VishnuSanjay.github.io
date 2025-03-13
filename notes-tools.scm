@@ -18,7 +18,7 @@
 ;; TODO:
 ;; * improve conversion of strings (spurious <concat> elements in atom output)
 
-(define notes-url "http://mgubi.github.io/")
+(define notes-url "http://vishnusanjay.github.io/")
 
 (if (not (getenv "NOTES")) 
   (setenv "NOTES" (getenv "PWD")))

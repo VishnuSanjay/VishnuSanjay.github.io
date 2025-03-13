@@ -23,4 +23,4 @@ cmd='(begin (display* "$LC_ALL :" (getenv "LC_ALL") "\n" "$PWD    :" (getenv "PW
 echo "I'm going to perform: $op"
 
 # Set environment variables and execute the TeXmacs command
-LC_ALL=POSIX TEXMACS_PATH=$tm_path $tm_path/texmacs -x "$cmd"
+LC_ALL=POSIX TEXMACS_PATH=$tm_path/TeXmacs $tm_path -x "$cmd"

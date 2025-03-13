@@ -1,4 +1,4 @@
-<TeXmacs|2.1.1>
+<TeXmacs|2.1.4>
 
 <style|<tuple|notes|html-font-size>>
 
@@ -10,15 +10,24 @@
   <with|font-shape|italic|personal pages><vspace|3em>
 
   I am currently a PhD student in mathematics
-  at<nbsp><hlink|GSSI|https://www.gssi.it/>. My current research interest
-  lies at the intersection of dispersive PDEs and probability, primarily wave
-  turbulence theory, but also SPDEs and renormalization. Prior to this, I was
-  in a joint Master's program on mathematical modeling at the University of
-  Hamburg and the University of L'Aquila. During my master's I was a
-  scientific assistant in the CFEL-CMI group at DESY, using tools from
-  machine learning to solve problems in molecular dynamics. My thesis was on
-  the approximation of the solution to the HJB equation, for smooth,
-  nonlinear, finite-horizon optimal control problems.
+  at<nbsp><hlink|GSSI|https://www.gssi.it/>. The problem I currently work on
+  a problem in kinetic theory, which is to rigorously pass from the
+  Schrödinger equation to a linear Boltzmann type equation in the weak
+  coupling limit.\ 
+
+  \;
+
+  I am broadly interested in problems that lie at the intersection of
+  dispersive PDEs and probability. \ 
+
+  \;
+
+  Prior to this, I was in a joint Master's program on mathematical modeling
+  at the University of Hamburg and the University of L'Aquila. During my
+  master's I was a scientific assistant in the CFEL-CMI group at DESY, using
+  tools from machine learning to solve problems in molecular dynamics. My
+  thesis was on the approximation of the solution to the HJB equation, for
+  smooth, nonlinear, finite-horizon optimal control problems.
 
   \;
 
