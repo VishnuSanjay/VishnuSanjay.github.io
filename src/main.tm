@@ -3,7 +3,7 @@
 <style|<tuple|notes|html-font-size>>
 
 <\body>
-  \;
+  <inactive|<assign|html-css|../resources/notes_base.css>>
 
   <html-div-class|vs-title|<huge|<with|font-series|bold|Vishnu Sanjay>>>\ 
 
