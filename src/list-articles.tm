@@ -1,6 +1,8 @@
 <TeXmacs|2.1.4>
 
-<style|notes>
+<style|article>
+
+<head|<link|<rel|stylesheet>|<type|text/css>|<href|/resources/styles/notes-base.css>>|<script|<src|/resources/scripts/notes-base.js>>>
 
 <\body>
   <notes-header>

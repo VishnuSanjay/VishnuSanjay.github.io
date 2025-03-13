@@ -85,7 +85,12 @@
     (tree-export (tm->tree 
         `(document 
             (TeXmacs ,(texmacs-version)) 
-            (style (tuple "notes")) 
+            (style (tuple "article"))
+	    (head 
+            (link (rel "stylesheet") 
+                  (type "text/css") 
+                  (href "/resources/styles/notes-base.css"))
+            (script (src "/resources/scripts/notes-base.js")) )
 	    (body (document  
                 (notes-header) 
                 (chapter* "List of all the articles")
