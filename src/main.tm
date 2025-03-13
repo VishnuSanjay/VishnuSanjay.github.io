@@ -34,8 +34,8 @@
   <hlink|google scholar|https://scholar.google.ca/citations?hl=en&user=cryGRjkAAAAJ>
   \<cdot\> <hlink|ORCID|http://orcid.org/0000-0001-7609-5438>
 
-  <notes-link|vita|https://www.vishnusanjay.github.io/curriculum-vitae.html>
-  \<cdot\> <notes-link|research|research.tm> \<cdot\>
+  <notes-link|vita|../docs/curriculum-vitae.html> \<cdot\>
+  <notes-link|research|research.tm> \<cdot\>
   <notes-link|writings|zettels/writings.tm>
 
   <vspace|1em>
