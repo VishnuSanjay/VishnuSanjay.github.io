@@ -48,11 +48,11 @@
 
   <assign|html-title|Vishnu<nbsp>Sanjay>
 
-  <assign|html-head-favicon|/resources/favicon-32x32.png>
+  <assign|html-head-favicon|../resources/favicon-32x32.png>
 
   <assign|html-css|../resources/notes-base.css>
 
-  <assign|html-extra-javascript-src|<tuple|/resources/highlight.pack.js|/resources/notes-base.js>>
+  <assign|html-extra-javascript-src|<tuple|../resources/highlight.pack.js|../resources/notes-base.js>>
 
   <\active*>
     <\src-comment>
@@ -132,7 +132,7 @@
 
   <assign|notes-header-name|mg\|pages>
 
-  <assign|notes-header-image|<image|/resources/texmacs-blog-transparent.png|20pt|||>>
+  <assign|notes-header-image|<image|../resources/texmacs-blog-transparent.png|20pt|||>>
 
   <if|<provides|notes-main-dir>||<assign|notes-main-dir|.>>
 
