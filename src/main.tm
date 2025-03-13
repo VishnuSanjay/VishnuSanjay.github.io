@@ -5,14 +5,15 @@
 <\body>
   \;
 
-  <html-div-class|mg-title|<huge|<with|font-series|bold|Vishnu Sanjay>>>\ 
+  <html-div-class|vs-title|<huge|<with|font-series|bold|Vishnu Sanjay>>>\ 
 
   <with|font-shape|italic|personal pages><vspace|3em>
 
   I am currently a PhD student in mathematics at
-  <nbsp><hlink|GSSI|https://www.gssi.it/>. The problem I currently work on a
-  problem in kinetic theory, which is to rigorously pass from the Schrödinger
-  equation to a linear Boltzmann type equation in the weak coupling limit.\ 
+  <nbsp><hlink|GSSI|https://www.gssi.it/>. The problem I currently work on is
+  a problem in kinetic theory, which is to rigorously pass from the
+  Schrödinger equation to a linear Boltzmann type equation in the weak
+  coupling limit.\ 
 
   \;
 
@@ -33,17 +34,17 @@
   <hlink|google scholar|https://scholar.google.ca/citations?hl=en&user=cryGRjkAAAAJ>
   \<cdot\> <hlink|ORCID|http://orcid.org/0000-0001-7609-5438>
 
-  <notes-link|vita|curriculum-vitae.tm> \<cdot\>
-  <notes-link|research|research.tm> \<cdot\>
+  <notes-link|vita|https://www.vishnusanjay.github.io/curriculum-vitae.html>
+  \<cdot\> <notes-link|research|research.tm> \<cdot\>
   <notes-link|writings|zettels/writings.tm>
 
   <vspace|1em>
 
-  <inactive|<\small>
+  <\small>
     these pages have been created with <hlink|<TeXmacs>|http://www.texmacs.org>
     and the template has been forked from
     <hlink|github|https://github.com/mgubi/webpages>
-  </small>>
+  </small>
 </body>
 
 <\initial>
