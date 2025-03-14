@@ -13,9 +13,9 @@
   <hrule>
 
   <notes-entry|publications.tm|Publications|Papers I have co-authored \ \U
-  last updated Nov 2023.|Fri Mar 14 15:46:31 2025 UTC>
+  last updated Nov 2023.|Fri Mar 14 16:29:55 2025 UTC>
 
-  <notes-entry|curriculum-vitae.tm|Vita|(no abstract)|Fri Mar 14 15:46:31
+  <notes-entry|curriculum-vitae.tm|Vita|(no abstract)|Fri Mar 14 16:28:51
   2025 UTC>
 
   <notes-entry|research.tm|Research|Mathematics.|Tue Nov 21 08:34:08 2023
