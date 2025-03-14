@@ -1,6 +1,6 @@
-<TeXmacs|2.1.1>
+<TeXmacs|2.1.4>
 
-<style|<tuple|notes|publist>>
+<style|<tuple|source|publist|notes>>
 
 <\body>
   <inactive|<\hide-preamble>
@@ -22,10 +22,10 @@
 
   <inactive|<\bibliography*|bib-papers|tm-publist||Journal publications>
     <inactive|<\bib-list|1>
-      <bibitem*|1><bib-year-section|2021><label|bib-preprints-gubinelliStochasticQuantisationFractional2023>Y.<nbsp>Saleh,
-      V.<nbsp>Sanjay, A.<nbsp>Iske, A.<nbsp>Yachmenev and J.<nbsp>Küpper:
-      Active learning of potential-energy surfaces of weakly bound complexes
-      with regression-tree ensembles. Oct 2021.<newblock>
+      <bibitem*|1><bib-year-section|2021>Y.<nbsp>Saleh, V.<nbsp>Sanjay,
+      A.<nbsp>Iske, A.<nbsp>Yachmenev and J.<nbsp>Küpper: Active learning of
+      potential-energy surfaces of weakly bound complexes with
+      regression-tree ensembles. Oct 2021.<newblock>
       <newblock><hlink|<hlink|10.1063/5.0057051|https://doi.org/10.1063/5.0057051>|https://doi.org/10.1063/5.0057051>
     </bib-list>>
   </bibliography*>>
@@ -36,7 +36,7 @@
     <associate|info-flag|short>
     <associate|item-vsep|<macro|0.6fn>>
     <associate|page-screen-margin|false>
-    <associate|preamble|false>
+    <associate|preamble|true>
   </collection>
 </initial>
 
@@ -7426,9 +7426,3 @@
     </associate>
   </collection>
 </attachments>
-
-<\references>
-  <\collection>
-    <associate|bib-preprints-gubinelliStochasticQuantisationFractional2023|<tuple|?|?>>
-  </collection>
-</references>

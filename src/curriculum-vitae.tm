@@ -1,17 +1,17 @@
-<TeXmacs|2.1.1>
+<TeXmacs|2.1.4>
 
-<style|<tuple|notes|cv-mg>>
+<style|<tuple|source|cv-mg|notes>>
 
 <\body>
   <\hide-preamble>
     \;
   </hide-preamble>
 
-  <notes-header>
+  <compound|notes-header>
 
   <chapter*|Vita>
 
-  <inactive|<\cv-body>
+  <\cv-body>
     <\cv-section>
       Current position
     </cv-section>
@@ -40,8 +40,19 @@
       Fellowships and awards
     </cv-section>
 
-    <with|font-shape|italic|none>
-  </cv-body>>
+    <timeline|2018-2020>Mathmods consortium scholarship
+
+    <timeline|2019-2020>Erasmus + scholarship
+
+    <timeline|2019-2020>Fondo Giovani scholarship
+
+    <timeline|2018-2019>Univeristy of L'Aquila Interantional Office
+    scholarship
+
+    <timeline|2017>ISNEE Formula Green winner<with|font-shape|italic|>
+  </cv-body>
+
+  \;
 </body>
 
 <\initial>
@@ -52,3 +63,19 @@
     <associate|preamble|false>
   </collection>
 </initial>
+
+<\references>
+  <\collection>
+    <associate|auto-1|<tuple|?|?>>
+  </collection>
+</references>
+
+<\auxiliary>
+  <\collection>
+    <\associate|toc>
+      <vspace*|2fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-size|<quote|1.19>|Vita>
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-1><vspace|1fn>
+    </associate>
+  </collection>
+</auxiliary>
