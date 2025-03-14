@@ -12,13 +12,13 @@
 
   <hrule>
 
-  <notes-entry|research.tm|Research|(no abstract)|Fri Mar 14 17:30:42 2025
+  <notes-entry|events.tm|Events|(no abstract)|Fri Mar 14 17:36:11 2025 UTC>
+
+  <notes-entry|research.tm|Research|(no abstract)|Fri Mar 14 17:31:42 2025
   UTC>
 
-  <notes-entry|events.tm|Events|(no abstract)|Fri Mar 14 17:30:10 2025 UTC>
-
   <notes-entry|publications.tm|Publications|Papers I have co-authored \ \U
-  last updated Mar 2025.|Fri Mar 14 16:39:06 2025 UTC>
+  last updated Mar 2025.|Fri Mar 14 17:31:42 2025 UTC>
 
   <notes-entry|curriculum-vitae.tm|Vita|(no abstract)|Fri Mar 14 16:36:05
   2025 UTC>

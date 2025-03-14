@@ -13,7 +13,7 @@
 
   <subsection*|Schools>
 
-  <inactive|<\itemize>
+  <\itemize>
     <item>Winter school on Statistical Mechanics, Nonequilibrium Processes
     and Probability, Sapienza University, Rome, Feb 17-28, 2025.
     (<hlink|url|Winter school on Statistical Mechanics, Nonequilibrium
@@ -46,9 +46,7 @@
 
     <item>Deep and Reinforcement Learning Summer School, Edmonton, Canada,
     Jul 2019.
-  </itemize>>
-
-  \;
+  </itemize>
 
   \;
 
@@ -66,9 +64,6 @@
   <\collection>
     <associate|auto-1|<tuple|?|?>>
     <associate|auto-2|<tuple|?|?>>
-    <associate|auto-3|<tuple|<with|mode|<quote|math>|<with|font-series|<quote|bold>|math-font-series|<quote|bold>|<rigid|\<ast\>>>>|?>>
-    <associate|h.kz6ax1w99gdh|<tuple|<with|mode|<quote|math>|<with|font-series|<quote|bold>|math-font-series|<quote|bold>|<rigid|\<ast\>>>>|?>>
-    <associate|page-title|<tuple|<with|mode|<quote|math>|<with|font-series|<quote|bold>|math-font-series|<quote|bold>|<rigid|\<ast\>>>>|?>>
   </collection>
 </references>
 
@@ -79,7 +74,7 @@
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-1><vspace|1fn>
 
-      <with|par-left|<quote|1tab>|Summer schools
+      <with|par-left|<quote|1tab>|Schools
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-2>>
     </associate>
