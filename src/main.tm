@@ -1,19 +1,16 @@
 <TeXmacs|2.1.4>
 
-<style|<tuple|notes|html-font-size>>
+<style|<tuple|generic|html-font-size>>
 
 <\body>
-  <inactive|<assign|html-css|/resources/notes-base.css>>
+  <assign|html-title|Vishnu Sanjay> <assign|html-css|../resources/notes-base.css>\ 
 
-  <html-div-class|vs-title|<huge|<with|font-series|bold|Vishnu Sanjay>>>\ 
-
-  <with|font-shape|italic|personal pages><vspace|3em>
+  \;
 
   I am currently a PhD student in mathematics at
-  <nbsp><hlink|GSSI|https://www.gssi.it/>. The problem I currently work on is
-  a problem in kinetic theory, which is to rigorously pass from the
-  Schrödinger equation to a linear Boltzmann type equation in the weak
-  coupling limit.\ 
+  <hlink|GSSI|https://www.gssi.it/>. The problem I currently work on is a
+  problem in kinetic theory, which is to rigorously pass from the Schrödinger
+  equation to a linear Boltzmann type equation in the weak coupling limit.\ 
 
   \;
 
@@ -32,11 +29,9 @@
   \;
 
   <hlink|google scholar|https://scholar.google.ca/citations?hl=en&user=cryGRjkAAAAJ>
-  \<cdot\> <hlink|ORCID|http://orcid.org/0000-0001-7609-5438>
-
-  <inactive|<notes-link|vita|https://google.com>> \<cdot\>
-  <notes-link|research|research.tm> \<cdot\>
-  <notes-link|writings|zettels/writings.tm>
+  <math|\<cdummy\>> <hlink|ORCID|http://orcid.org/0000-0001-7609-5438>
+  <math|\<cdummy\>> <hlink|vita|https://vishnusanjay.github.io/docs/curriculum-vitae.html>
+  <math|\<cdummy\>> <hlink|research|https://vishnusanjay.github.io/docs/research.tm>
 
   <vspace|1em>
 

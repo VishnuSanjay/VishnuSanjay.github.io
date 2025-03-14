@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>Notes on TeXmacs</title>
-  <link rel="alternate" type="text/html" href="http://vishnusanjay.github.io/"/>
-  <link rel="self" type="application/atom+xml" href="http://vishnusanjay.github.io/docs/notes.atom"/>
-  <updated>2025-03-13T22:09:51Z</updated>
+  <link rel="alternate" type="text/html" href="https://vishnusanjay.github.io/"/>
+  <link rel="self" type="application/atom+xml" href="https://vishnusanjay.github.io/docs/notes.atom"/>
+  <updated>2025-03-14T10:52:37Z</updated>
   <author>
     <name>The TeXmacs organisation</name>
     <uri>http://www.texmacs.org</uri>
   </author>
   <id>mgubi.github.io/notes,2023,1</id>
-  <icon>http://vishnusanjay.github.io/misc/blog-icon.ico</icon>
-  <logo>http://vishnusanjay.github.io/misc/texmacs-blog-transparent.png</logo>
+  <icon>https://vishnusanjay.github.io/misc/blog-icon.ico</icon>
+  <logo>https://vishnusanjay.github.io/misc/texmacs-blog-transparent.png</logo>
   <entry>
     <title>Research</title>
-    <link rel="alternate" type="text/html" hreflang="en" href="http://vishnusanjay.github.io/docs/research.html"/>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://vishnusanjay.github.io/docs/research.html"/>
     <id>mgubi.github.io/research.tm:2023-11-21T08:34:08Z</id>
     <updated>2023-11-21T08:34:08Z</updated>
     <published>2023-11-21T08:34:08Z</published>
@@ -21,7 +21,7 @@
   </entry>
   <entry>
     <title>Publications</title>
-    <link rel="alternate" type="text/html" hreflang="en" href="http://vishnusanjay.github.io/docs/publications.html"/>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://vishnusanjay.github.io/docs/publications.html"/>
     <id>mgubi.github.io/publications.tm:2023-11-21T08:34:08Z</id>
     <updated>2023-11-21T08:34:08Z</updated>
     <published>2023-11-21T08:34:08Z</published>
@@ -29,21 +29,21 @@
   </entry>
   <entry>
     <title>Events</title>
-    <link rel="alternate" type="text/html" hreflang="en" href="http://vishnusanjay.github.io/docs/events.html"/>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://vishnusanjay.github.io/docs/events.html"/>
     <id>mgubi.github.io/events.tm:2023-11-21T08:34:08Z</id>
     <updated>2023-11-21T08:34:08Z</updated>
     <published>2023-11-21T08:34:08Z</published>
   </entry>
   <entry>
     <title>Vita</title>
-    <link rel="alternate" type="text/html" hreflang="en" href="http://vishnusanjay.github.io/docs/curriculum-vitae.html"/>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://vishnusanjay.github.io/docs/curriculum-vitae.html"/>
     <id>mgubi.github.io/curriculum-vitae.tm:2023-11-21T08:34:08Z</id>
     <updated>2023-11-21T08:34:08Z</updated>
     <published>2023-11-21T08:34:08Z</published>
   </entry>
   <entry>
     <title>Template article</title>
-    <link rel="alternate" type="text/html" hreflang="en" href="http://vishnusanjay.github.io/docs/template.html"/>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://vishnusanjay.github.io/docs/template.html"/>
     <id>mgubi.github.io/template.tm:2023-11-19T12:53:14Z</id>
     <updated>2023-11-19T12:53:14Z</updated>
     <published>2023-11-19T12:53:14Z</published>

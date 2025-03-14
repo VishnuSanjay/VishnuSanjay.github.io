@@ -18,7 +18,7 @@
 ;; TODO:
 ;; * improve conversion of strings (spurious <concat> elements in atom output)
 
-(define notes-url "http://vishnusanjay.github.io/")
+(define notes-url "https://vishnusanjay.github.io/")
 
 (if (not (getenv "NOTES")) 
   (setenv "NOTES" (getenv "PWD")))
@@ -85,12 +85,7 @@
     (tree-export (tm->tree 
         `(document 
             (TeXmacs ,(texmacs-version)) 
-            (style (tuple "article"))
-	    (head 
-            (link (rel "stylesheet") 
-                  (type "text/css") 
-                  (href "/resources/styles/notes-base.css"))
-            (script (src "/resources/scripts/notes-base.js")) )
+            (style (tuple "notes" ,(string-append "resources/notes/styles/notes.ts")))
 	    (body (document  
                 (notes-header) 
                 (chapter* "List of all the articles")
