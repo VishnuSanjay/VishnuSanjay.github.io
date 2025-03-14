@@ -17,14 +17,14 @@
 
   <chapter*|Publications>
 
-  <notes-abstract|Papers I have co-authored \ \U last updated Nov 2023.>
+  <notes-abstract|Papers I have co-authored \ \U last updated Mar 2025.>
 
   <\bibliography*|bib-papers|tm-publist||Journal publications>
     <\bib-list|1>
       <bibitem*|1><bib-year-section|2021>Y.<nbsp>Saleh, V.<nbsp>Sanjay,
       A.<nbsp>Iske, A.<nbsp>Yachmenev and J.<nbsp>Küpper: Active learning of
       potential-energy surfaces of weakly bound complexes with
-      regression-tree ensembles. Oct 2021.<newblock>
+      regression-tree ensembles. <newblock>
       <newblock><hlink|<hlink|10.1063/5.0057051|https://doi.org/10.1063/5.0057051>|https://doi.org/10.1063/5.0057051>
     </bib-list>
   </bibliography*>

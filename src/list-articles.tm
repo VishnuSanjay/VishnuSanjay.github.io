@@ -12,16 +12,16 @@
 
   <hrule>
 
-  <notes-entry|publications.tm|Publications|Papers I have co-authored \ \U
-  last updated Nov 2023.|Fri Mar 14 16:29:55 2025 UTC>
-
-  <notes-entry|curriculum-vitae.tm|Vita|(no abstract)|Fri Mar 14 16:28:51
-  2025 UTC>
-
-  <notes-entry|research.tm|Research|Mathematics.|Tue Nov 21 08:34:08 2023
+  <notes-entry|research.tm|Research|(no abstract)|Fri Mar 14 17:30:42 2025
   UTC>
 
-  <notes-entry|events.tm|Events|(no abstract)|Tue Nov 21 08:34:08 2023 UTC>
+  <notes-entry|events.tm|Events|(no abstract)|Fri Mar 14 17:30:10 2025 UTC>
+
+  <notes-entry|publications.tm|Publications|Papers I have co-authored \ \U
+  last updated Mar 2025.|Fri Mar 14 16:39:06 2025 UTC>
+
+  <notes-entry|curriculum-vitae.tm|Vita|(no abstract)|Fri Mar 14 16:36:05
+  2025 UTC>
 
   <notes-entry|template.tm|Template article|This file provides a template for
   typical notes/articles. You can use the tag <src-macro|notes-abstract> to
