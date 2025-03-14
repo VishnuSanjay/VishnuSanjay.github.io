@@ -3,7 +3,7 @@
 <style|<tuple|source|html-font-size|notes>>
 
 <\body>
-  \;
+  <html-div-class||<huge|<with|||||>Vishnu Sanjay>>
 
   I am currently a PhD student in mathematics at
   <hlink|GSSI|https://www.gssi.it/>. The problem I currently work on is a
@@ -28,12 +28,10 @@
 
   <hlink|google scholar|https://scholar.google.ca/citations?hl=en&user=cryGRjkAAAAJ>
   <math|\<cdummy\>> <hlink|ORCID|http://orcid.org/0000-0001-7609-5438>
-  <math|\<cdummy\>> <hlink|vita|https://vishnusanjay.github.io/docs/curriculum-vitae.html>
-  <math|\<cdummy\>> <hlink|research|https://vishnusanjay.github.io/docs/research.tm>
+  <math|\<cdummy\>> <notes-link|vita|curriculum-vitae.tm><hlink||https://vishnusanjay.github.io/docs/curriculum-vitae.html>
+  <math|\<cdummy\>> <notes-link|publications|publications.tm><hlink||https://vishnusanjay.github.io/docs/publications.tm>
 
   <vspace|1em>
-
-  <notes-link|vita|curriculum-vitau.tm>
 
   <\small>
     these pages have been created with <hlink|<TeXmacs>|http://www.texmacs.org>
@@ -44,6 +42,7 @@
 
 <\initial>
   <\collection>
+    <associate|font-base-size|11>
     <associate|page-medium|beamer>
     <associate|preamble|false>
   </collection>
