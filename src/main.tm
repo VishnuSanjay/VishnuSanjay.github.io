@@ -6,7 +6,12 @@
   <html-div-class||<huge|<with|||||>Vishnu Sanjay>>
 
   I am currently a PhD student in mathematics at
-  <hlink|GSSI|https://www.gssi.it/>.\ 
+  <hlink|GSSI|https://www.gssi.it/>. <vspace|>
+
+  The problem I currently work on is a problem in kinetic theory, which is to
+  rigorously pass from the Schrödinger equation to a linear Boltzmann type
+  equation in the weak coupling limit. I am broadly interested in problems
+  that lie at the intersection of dispersive PDEs and probability. \ 
 
   Prior to this, I was in a joint Master's program on mathematical modeling
   at the University of Hamburg and the University of L'Aquila. During my
@@ -22,8 +27,7 @@
 
   <notes-link|vita|curriculum-vitae.tm><hlink||https://vishnusanjay.github.io/docs/curriculum-vitae.html>
   <math|\<cdummy\>> <notes-link|publications|publications.tm><hlink||https://vishnusanjay.github.io/docs/publications.tm>
-  <math|\<cdummy\>> <notes-link|research|research.tm> <math|\<cdummy\>>
-  <notes-link|events|events.tm>
+  <math|\<cdummy\>> <notes-link|events|events.tm>
 
   <vspace|1em>
 
