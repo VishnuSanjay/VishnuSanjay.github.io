@@ -3,22 +3,25 @@
 <style|<tuple|source|html-font-size|notes>>
 
 <\body>
-  <html-div-class||<huge|<with|||||>Vishnu Sanjay>>
+  <html-div-class||<huge|<with|||||>Vishnu Sanjay>><vspace|>
 
   I am currently a PhD student in mathematics at
   <hlink|GSSI|https://www.gssi.it/>. <vspace|>
 
   The problem I currently work on is a problem in kinetic theory, which is to
   rigorously pass from the Schrödinger equation to a linear Boltzmann type
-  equation in the weak coupling limit. I am broadly interested in problems
-  that lie at the intersection of dispersive PDEs and probability. \ 
+  equation in the weak coupling limit. I am co-supervised by Prof.
+  Massimiliano Gubinelli and Prof. Stefano Olla. <vspace|>
+
+  More broadly, I am interested in problems that lie at the intersection of
+  dispersive PDEs and probability. <vspace|>
 
   Prior to this, I was in a joint Master's program on mathematical modeling
   at the University of Hamburg and the University of L'Aquila. During my
   master's I was a scientific assistant in the CFEL-CMI group at DESY, using
   tools from machine learning to solve problems in molecular dynamics. My
-  thesis was on the approximation of the solution to the HJB equation, for
-  smooth, nonlinear, finite-horizon optimal control problems.
+  master thesis was on the approximation of the solution to the HJB equation,
+  for smooth, nonlinear, finite-horizon optimal control problems.<vspace>
 
   \;
 
@@ -33,7 +36,7 @@
 
   <\small>
     these pages have been created with <hlink|<TeXmacs>|http://www.texmacs.org>
-    and the template has been forked from
+    and the template has been forked from Max's
     <hlink|github|https://github.com/mgubi/webpages>
   </small>
 </body>
