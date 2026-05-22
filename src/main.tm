@@ -3,13 +3,13 @@
 <style|<tuple|source|html-font-size|notes>>
 
 <\body>
-  <html-div-class||<huge|<with|||||>Vishnu Sanjay>><vspace|>
+  <center|<html-div-class||<huge|<with|||||>Vishnu Sanjay>><vspace|>>
 
-  I hold a PhD in mathematics from the <hlink|GSSI|https://www.gssi.it/>.
-  <vspace|>
+  Welcome to my website! <vspace|>
 
-  My thesis was on the weak coupling limit of the periodic quantum Lorentz
-  gas, and introduced ideas from the theory of rough paths in order to derive
+  I hold a PhD in mathematics from the <hlink|GSSI|https://www.gssi.it/>. My
+  thesis was on the weak coupling limit of the periodic quantum Lorentz gas,
+  and introduced ideas from the theory of rough paths in order to derive
   kinetic limits. I was co-supervised by Prof. Massimiliano Gubinelli and
   Prof. Stefano Olla. <vspace|>
 

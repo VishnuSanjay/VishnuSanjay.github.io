@@ -14,12 +14,12 @@
   <notes-abstract|Papers I have co-authored \ \U last updated May 2026.>
 
   <\with-bib|bib2>
-    <nocite|blochwigarx>
+    <nocite|blochwigarx>\ 
 
-    <\bibliography*|bib2|tm-plain|vishnu|Preprints>
+    <\bibliography*|bib2|tm-publist|vishnu|Preprints>
       <\bib-list|1>
-        <bibitem*|1><label|bib2-blochwigarx>M.<nbsp>Gubinelli<localize| and
-        >V.<nbsp>Sanjay. <newblock><with|font-shape|italic|On the weak
+        <bibitem*|1><label|bib2-blochwigarx><bib-year-section|2026>M.<nbsp>Gubinelli<localize|
+        and >V.<nbsp>Sanjay. <newblock><with|font-shape|italic|On the weak
         coupling limit of the periodic quantum Lorentz gas>.
         <newblock><slink|https://arxiv.org/abs/2601.07453>.<newblock>
       </bib-list>
@@ -30,10 +30,10 @@
 
   <\bibliography*|bib|tm-plain|vishnu|Refereed publications>
     <\bib-list|1>
-      <bibitem*|1><label|bib-SalehAL>Y.<nbsp>Saleh, V.<nbsp>Sanjay,
-      A.<nbsp>Iske, A.<nbsp>Yachmenev<localize|, and >J.<nbsp>Kuepper.
-      <newblock>Active learning of potential-energy surfaces of weakly bound
-      complexes with regression-tree ensembles.
+      <bibitem*|1><label|bib-SalehAL><bib-year-section|2021>Y.<nbsp>Saleh,
+      V.<nbsp>Sanjay, A.<nbsp>Iske, A.<nbsp>Yachmenev<localize|, and
+      >J.<nbsp>Kuepper. <newblock>Active learning of potential-energy
+      surfaces of weakly bound complexes with regression-tree ensembles.
       <newblock><with|font-shape|italic|The Journal of Chemical Physics>,
       155(144109), 2021.<newblock>
     </bib-list>
@@ -44,7 +44,7 @@
 
     <\bibliography*|bib-phd|tm-plain|vishnu|PhD Thesis>
       <\bib-list|1>
-        <bibitem*|1><label|bib-phd-sanjayphd>V.<nbsp>Sanjay.
+        <bibitem*|1><label|bib-phd-sanjayphd><bib-year-section|2026>V.<nbsp>Sanjay.
         <newblock><with|font-shape|italic|On the weak coupling limit of the
         periodic quantum Lorentz gas>. <newblock><localize|PhD thesis>, Gran
         Sasso Science Institute, <slink|https://hdl.handle.net/20.500.12571/38824>,
