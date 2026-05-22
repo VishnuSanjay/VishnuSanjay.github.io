@@ -13,7 +13,7 @@
   <hrule>
 
   <notes-entry|publications.tm|Publications|Papers I have co-authored \ \U
-  last updated May 2026.|Fri May 22 14:43:31 2026 UTC>
+  last updated May 2026.|Fri May 22 14:47:03 2026 UTC>
 
   <notes-entry|events.tm|Events|(no abstract)|Fri May 22 14:33:38 2026 UTC>
 

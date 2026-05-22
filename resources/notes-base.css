@@ -48,7 +48,7 @@ html {
     font-size: 18px;
 }
 
-body {
+/* body {
     background-color:  #f9f9f9;
     color: var(--color-text);
     font-family: var(--main-family);
@@ -63,6 +63,18 @@ body {
     margin-bottom: 0em;
     margin-top: 0em;
     width: 650px; 
+} */
+body {
+    background-color: #f9f9f9;
+    color: var(--color-text);
+    font-family: var(--main-family);
+    text-align: left;
+    line-height: 1.5;
+    font-size: 0.95rem;
+    margin: 0 auto;
+    max-width: 650px;
+    padding: 1.2rem;
+    box-sizing: border-box;
 }
 
 .tmdoc-body {
