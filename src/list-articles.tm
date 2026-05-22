@@ -12,13 +12,13 @@
 
   <hrule>
 
+  <notes-entry|curriculum-vitae.tm|Short vita|(no abstract)|Fri May 22
+  15:09:13 2026 UTC>
+
   <notes-entry|publications.tm|Publications|Papers I have co-authored \ \U
   last updated May 2026.|Fri May 22 14:47:03 2026 UTC>
 
   <notes-entry|events.tm|Events|(no abstract)|Fri May 22 14:33:38 2026 UTC>
-
-  <notes-entry|curriculum-vitae.tm|Short vita|(no abstract)|Fri May 22
-  14:33:38 2026 UTC>
 
   <notes-entry|template.tm|Template article|This file provides a template for
   typical notes/articles. You can use the tag <src-macro|notes-abstract> to

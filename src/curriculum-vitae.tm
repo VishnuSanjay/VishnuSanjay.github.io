@@ -16,21 +16,23 @@
       Education
     </cv-section>
 
-    <timeline|2026>PhD Student in Mathematics
+    <timeline|2026>PhD in Mathematics
 
     Gran Sasso Science Institute, L'Aquila.
 
-    PhD Advisors : Prof. Massimiliano Gubinelli and Prof. Stefano Olla
+    PhD Advisors: Prof. Massimiliano Gubinelli and Prof. Stefano Olla
 
-    <timeline|2021>MathMods, Joint Master in Mathematical Modeling,
-    University of Hamburg and University of L'Aquila.
+    <timeline|2021>MathMods, Joint M.Sc. in Mathematical Modeling, University
+    of Hamburg and University of L'Aquila.
 
     Master Thesis : Value function approximation for nonlinear,
     finite-horizon optimal control problems.
 
-    Thesis supervisor : Prof. Tobias Breiten (TU Berlin)
+    Thesis supervisors: Prof. Tobias Breiten and Prof. Matthias Voigt.
 
     <timeline|2017>B.Sc in Mechanical Engineering, SRM University, Chennai.
+
+    Thesis supervisor: Dr. M. Cheralathan
 
     \;
 
@@ -73,8 +75,8 @@
 <\auxiliary>
   <\collection>
     <\associate|toc>
-      <vspace*|2fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-size|<quote|1.19>|Vita>
-      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <vspace*|2fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-size|<quote|1.19>|Short
+      vita> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-1><vspace|1fn>
     </associate>
   </collection>
