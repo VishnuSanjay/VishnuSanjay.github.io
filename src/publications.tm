@@ -1,15 +1,9 @@
 <TeXmacs|2.1.4>
 
-<style|<tuple|source|publist|notes>>
+<style|<tuple|article|publist|notes>>
 
 <\body>
   <\hide-preamble>
-    \;
-
-    <\with-bib|bib-papers>
-      <nocite|Activelearning2020>
-    </with-bib>
-
     \;
   </hide-preamble>
 
@@ -17,17 +11,49 @@
 
   <chapter*|Publications>
 
-  <notes-abstract|Papers I have co-authored \ \U last updated Mar 2025.>
+  <notes-abstract|Papers I have co-authored \ \U last updated May 2026.>
 
-  <\bibliography*|bib-papers|tm-publist||Journal publications>
+  <\with-bib|bib2>
+    <nocite|blochwigarx>
+
+    <\bibliography*|bib2|tm-plain|vishnu|Preprints>
+      <\bib-list|1>
+        <bibitem*|1><label|bib2-blochwigarx>M.<nbsp>Gubinelli<localize| and
+        >V.<nbsp>Sanjay. <newblock><with|font-shape|italic|On the weak
+        coupling limit of the periodic quantum Lorentz gas>.
+        <newblock><slink|https://arxiv.org/abs/2601.07453>.<newblock>
+      </bib-list>
+    </bibliography*>
+  </with-bib>
+
+  <nocite|SalehAL>
+
+  <\bibliography*|bib|tm-plain|vishnu|Refereed publications>
     <\bib-list|1>
-      <bibitem*|1><bib-year-section|2021>Y.<nbsp>Saleh, V.<nbsp>Sanjay,
-      A.<nbsp>Iske, A.<nbsp>Yachmenev and J.<nbsp>Küpper: Active learning of
-      potential-energy surfaces of weakly bound complexes with
-      regression-tree ensembles. <newblock>
-      <newblock><hlink|<hlink|10.1063/5.0057051|https://doi.org/10.1063/5.0057051>|https://doi.org/10.1063/5.0057051>
+      <bibitem*|1><label|bib-SalehAL>Y.<nbsp>Saleh, V.<nbsp>Sanjay,
+      A.<nbsp>Iske, A.<nbsp>Yachmenev<localize|, and >J.<nbsp>Kuepper.
+      <newblock>Active learning of potential-energy surfaces of weakly bound
+      complexes with regression-tree ensembles.
+      <newblock><with|font-shape|italic|The Journal of Chemical Physics>,
+      155(144109), 2021.<newblock>
     </bib-list>
   </bibliography*>
+
+  <\with-bib|bib-phd>
+    <nocite|sanjayphd>
+
+    <\bibliography*|bib-phd|tm-plain|vishnu|PhD Thesis>
+      <\bib-list|1>
+        <bibitem*|1><label|bib-phd-sanjayphd>V.<nbsp>Sanjay.
+        <newblock><with|font-shape|italic|On the weak coupling limit of the
+        periodic quantum Lorentz gas>. <newblock><localize|PhD thesis>, Gran
+        Sasso Science Institute, <slink|https://hdl.handle.net/20.500.12571/38824>,
+        March 2026.<newblock>
+      </bib-list>
+    </bibliography*>
+  </with-bib>
+
+  \;
 </body>
 
 <\initial>
@@ -35,7 +61,7 @@
     <associate|info-flag|short>
     <associate|item-vsep|<macro|0.6fn>>
     <associate|page-screen-margin|false>
-    <associate|preamble|true>
+    <associate|preamble|false>
   </collection>
 </initial>
 
@@ -7425,3 +7451,46 @@
     </associate>
   </collection>
 </attachments>
+
+<\references>
+  <\collection>
+    <associate|auto-1|<tuple|?|?>>
+    <associate|auto-2|<tuple|?|?>>
+    <associate|auto-3|<tuple|1|?>>
+    <associate|auto-4|<tuple|1|?>>
+    <associate|bib-SalehAL|<tuple|1|?>>
+    <associate|bib-phd-sanjayphd|<tuple|1|?>>
+    <associate|bib2-blochwigarx|<tuple|1|?>>
+  </collection>
+</references>
+
+<\auxiliary>
+  <\collection>
+    <\associate|bib>
+      SalehAL
+    </associate>
+    <\associate|bib-phd>
+      sanjayphd
+    </associate>
+    <\associate|bib2>
+      blochwigarx
+    </associate>
+    <\associate|toc>
+      <vspace*|2fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-size|<quote|1.19>|Publications>
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-1><vspace|1fn>
+
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|Preprints>
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-2><vspace|0.5fn>
+
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|Refereed
+      publications> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-3><vspace|0.5fn>
+
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|PhD
+      Thesis> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-4><vspace|0.5fn>
+    </associate>
+  </collection>
+</auxiliary>

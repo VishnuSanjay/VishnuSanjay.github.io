@@ -11,9 +11,12 @@
 
   <chapter*|Events>
 
-  <subsection*|Schools>
+  <subsection*|Schools and conferences>
 
   <\itemize>
+    <item>PSPDE XIII conference, University of Modena and Reggio Emilia,
+    Modena, Dec 1-5, 2026. (<hlink|url|https://sites.google.com/view/pspdexiii>)
+
     <item>Winter school on Statistical Mechanics, Nonequilibrium Processes
     and Probability, Sapienza University, Rome, Feb 17-28, 2025.
     (<hlink|url|Winter school on Statistical Mechanics, Nonequilibrium

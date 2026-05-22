@@ -5,16 +5,20 @@
 <\body>
   <html-div-class||<huge|<with|||||>Vishnu Sanjay>><vspace|>
 
-  I am currently a PhD student in mathematics at
-  <hlink|GSSI|https://www.gssi.it/>. <vspace|>
+  I hold a PhD in mathematics from the <hlink|GSSI|https://www.gssi.it/>.
+  <vspace|>
 
-  The problem I currently work on is a problem in kinetic theory, which is to
-  rigorously pass from the Schrödinger equation to a linear Boltzmann type
-  equation in the weak coupling limit. I am co-supervised by Prof.
-  Massimiliano Gubinelli and Prof. Stefano Olla. <vspace|>
+  My thesis was on the weak coupling limit of the periodic quantum Lorentz
+  gas, and introduced ideas from the theory of rough paths in order to derive
+  kinetic limits. I was co-supervised by Prof. Massimiliano Gubinelli and
+  Prof. Stefano Olla. <vspace|>
 
+  I am currently looking for a postdoctoral position within kinetic theory. I
+  am also interested in derivations of kinetic equations related to wave
+  turbulence, and wave propagation in random media. There are also
+  connections of this work to homogenization theory and random matrix theory.
   More broadly, I am interested in problems that lie at the intersection of
-  dispersive PDEs and probability. <vspace|>
+  probability, statistical mechanics, and PDEs. <vspace|>
 
   Prior to this, I was in a joint Master's program on mathematical modeling
   at the University of Hamburg and the University of L'Aquila. During my
@@ -36,7 +40,7 @@
 
   <\small>
     these pages have been created with <hlink|<TeXmacs>|http://www.texmacs.org>
-    and the template has been forked from Max's
+    and the template has been forked from Massimiliano Gubinelli's
     <hlink|github|https://github.com/mgubi/webpages>
   </small>
 </body>

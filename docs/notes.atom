@@ -3,7 +3,7 @@
   <title>Notes on TeXmacs</title>
   <link rel="alternate" type="text/html" href="https://vishnusanjay.github.io/"/>
   <link rel="self" type="application/atom+xml" href="https://vishnusanjay.github.io/docs/notes.atom"/>
-  <updated>2025-03-15T09:45:43Z</updated>
+  <updated>2026-05-22T14:32:28Z</updated>
   <author>
     <name>The TeXmacs organisation</name>
     <uri>http://www.texmacs.org</uri>
@@ -12,43 +12,43 @@
   <icon>https://vishnusanjay.github.io/misc/blog-icon.ico</icon>
   <logo>https://vishnusanjay.github.io/misc/texmacs-blog-transparent.png</logo>
   <entry>
-    <title>Events</title>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://vishnusanjay.github.io/docs/events.html"/>
-    <id>mgubi.github.io/events.tm:2025-03-14T17:36:48Z</id>
-    <updated>2025-03-14T17:36:48Z</updated>
-    <published>2025-03-14T17:36:11Z</published>
-  </entry>
-  <entry>
-    <title>Research</title>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://vishnusanjay.github.io/docs/research.html"/>
-    <id>mgubi.github.io/research.tm:2025-03-14T17:31:42Z</id>
-    <updated>2025-03-14T17:31:42Z</updated>
-    <published>2025-03-14T17:30:42Z</published>
-  </entry>
-  <entry>
     <title>Publications</title>
     <link rel="alternate" type="text/html" hreflang="en" href="https://vishnusanjay.github.io/docs/publications.html"/>
-    <id>mgubi.github.io/publications.tm:2025-03-14T17:31:42Z</id>
-    <updated>2025-03-14T17:31:42Z</updated>
-    <published>2025-03-14T16:39:06Z</published>
-    <summary xml:space="preserve">Papers I have co-authored   last updated Mar 2025.</summary>
+    <id>mgubi.github.io/publications.tm:2026-05-22T14:31:14Z</id>
+    <updated>2026-05-22T14:31:14Z</updated>
+    <published>2026-05-22T14:31:14Z</published>
+    <summary xml:space="preserve">Papers I have co-authored   last updated May 2026.</summary>
   </entry>
   <entry>
-    <title>Vita</title>
+    <title>Short vita</title>
     <link rel="alternate" type="text/html" hreflang="en" href="https://vishnusanjay.github.io/docs/curriculum-vitae.html"/>
-    <id>mgubi.github.io/curriculum-vitae.tm:2025-03-14T16:36:05Z</id>
-    <updated>2025-03-14T16:36:05Z</updated>
-    <published>2025-03-14T16:28:51Z</published>
+    <id>mgubi.github.io/curriculum-vitae.tm:2026-05-21T10:54:54Z</id>
+    <updated>2026-05-21T10:54:54Z</updated>
+    <published>2026-05-21T10:54:54Z</published>
+  </entry>
+  <entry>
+    <title>Events</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://vishnusanjay.github.io/docs/events.html"/>
+    <id>mgubi.github.io/events.tm:2026-05-21T10:45:43Z</id>
+    <updated>2026-05-21T10:45:43Z</updated>
+    <published>2026-05-21T10:45:43Z</published>
   </entry>
   <entry>
     <title>Template article</title>
     <link rel="alternate" type="text/html" hreflang="en" href="https://vishnusanjay.github.io/docs/template.html"/>
-    <id>mgubi.github.io/template.tm:2023-11-19T12:53:14Z</id>
-    <updated>2023-11-19T12:53:14Z</updated>
-    <published>2023-11-19T12:53:14Z</published>
+    <id>mgubi.github.io/template.tm:2025-04-04T08:49:59Z</id>
+    <updated>2025-04-04T08:49:59Z</updated>
+    <published>2025-04-04T08:49:59Z</published>
     <summary><concat>This file provides a template for typical notes/articles.
     You can use the tag <src-macro>notes-abstract</src-macro> to provide a
     small summary of the content, as exemplified by this very
     text.</concat></summary>
+  </entry>
+  <entry>
+    <title>Research</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://vishnusanjay.github.io/docs/research.html"/>
+    <id>mgubi.github.io/research.tm:2025-04-04T08:49:59Z</id>
+    <updated>2025-04-04T08:49:59Z</updated>
+    <published>2025-04-04T08:49:59Z</published>
   </entry>
 </feed>
